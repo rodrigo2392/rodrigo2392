@@ -12,11 +12,13 @@ Actualmente estoy aprendiendo arquitectura en la nube con AWS y Azure.
 
 <img src="https://rodrigomendez.dev/_ipx/w_64,q_75/%2Fimages%2Freact.png?url=%2Fimages%2Freact.png&w=64&q=75" alt="React" width="38">  <img src="https://rodrigomendez.dev/_ipx/w_64,q_75/%2Fimages%2Fnative.png?url=%2Fimages%2Fnative.png&w=64&q=75" alt="React Native" width="38">  <img src="https://rodrigomendez.dev/_ipx/w_64,q_75/%2Fimages%2Ftailwind.png?url=%2Fimages%2Ftailwind.png&w=64&q=75" alt="Tailwind" width="38">   <img src="https://rodrigomendez.dev/_ipx/w_64,q_75/%2Fimages%2Fnext.png?url=%2Fimages%2Fnext.png&w=64&q=75" alt="Nextjs" width="38">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="38"> | <img src="https://rodrigomendez.dev/_ipx/w_64,q_75/%2Fimages%2Fnest.png?url=%2Fimages%2Fnest.png&w=64&q=75" alt="Nest JS" width="38">  <img src="https://rodrigomendez.dev/_ipx/w_64,q_75/%2Fimages%2Faws.png?url=%2Fimages%2Faws.png&w=64&q=75" alt="Amazon Web Services" width="38">  <img src="https://rodrigomendez.dev/_ipx/w_64,q_75/%2Fimages%2Fts.png?url=%2Fimages%2Fts.png&w=64&q=75" alt="jQuery" width="38">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2392&locale=es)](https://github.com/rodrigo2392)
+
 
 
 ### Github Stats
 
-[![Rodrigo Méndez GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo2392&show_icons=true&count_private=true)](https://github.com/rodrigo2392)
+[![Rodrigo Méndez GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo2392&show_icons=true&count_private=true&locale=es)](https://github.com/rodrigo2392)
 
 
 
