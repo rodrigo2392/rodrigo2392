@@ -18,13 +18,9 @@ Actualmente estoy aprendiendo arquitectura en la nube con AWS y Azure.
 
 [![Rodrigo Méndez GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo2392&show_icons=true&count_private=true)](https://github.com/rodrigo2392)
 
-### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigo2392&repo=react-native-template&show_owner=true)](https://github.com/rodrigo2392/react-native-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigo2392&repo=rodrigomendez.dev&show_owner=true)](https://github.com/rodrigo2392/rodrigomendez.dev)
 
-<h3> 🤝🏻 Contacto </h3>
-
+###  🤝🏻 Contacto 
 
 <a href="https://rodrigomendez.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-rodrigomendez.dev-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/%E2%98%95-rodrigo-m%C3%A9ndez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rodrigomendezdev-blue?style=flat&logo=linkedin"></a>
