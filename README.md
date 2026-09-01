@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://rodrigomendez.dev/img/rodrigo-avatar.jpg" width="130" alt="Rodrigo Méndez" />
 
 # Rodrigo Méndez
 
